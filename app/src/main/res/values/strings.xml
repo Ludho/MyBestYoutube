@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyBestYoutube</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_video_url">Youtube video id</string>
+    <string name="add_txt">ADD</string>
+    <string name="cancel_txt">CANCEL</string>
+    <string name="watch_txt">WATCH</string>
+    <string name="delete_txt">DELETE</string>
+    <string name="edit_txt">EDIT</string>
+    <string name="sport_category">Sport</string>
+    <string name="music_category">Music</string>
+    <string name="comedy_category">Comedy</string>
+    <string name="cooking_category">Cooking</string>
+    <string name="gaming_category">Gaming</string>
+    <string name="meme_category">Meme</string>
+</resources>
